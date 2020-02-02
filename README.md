@@ -1,4 +1,4 @@
-## Build Your Portfolio
+# Build Your Portfolio
 
 ## About The Project
 Udacity FEND's first project that mainly covers the usage of HTML and CSS in front-end web development.
